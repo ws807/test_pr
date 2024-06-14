@@ -1,6 +1,7 @@
 function foo1() {
-  return null.prop;
 }
 
 function foo2() {
+  let aaa = null;
+  return aaa.prop22;
 }
