@@ -1,2 +1,3 @@
-function bar() {
+function bar(x) {
+  return x;
 }
